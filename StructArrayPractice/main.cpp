@@ -50,7 +50,7 @@ int main (){
 	//					 change
 
 
-	// TODO #12: In main, add the weather {30.0, 20.0, 0.0. 14.0} in 
+	// TODO #12: In main, add the weather {30.0, 20.0, 0.0, 14.0} in 
 	//					 position 0 of the array and shift the existing items 
 	//					 in the array one slot to make room
 
