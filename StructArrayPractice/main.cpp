@@ -26,10 +26,10 @@ using namespace std;
 // TODO #10a: Write the biggestDay function prototype
 
 
-// TODO 14a (BONUS): Write the writeWeather function protype
+// TODO #14a (BONUS): Write the writeWeather function protype
 
 
-// TODO 15a (BONUS): Write the readWeather function protype
+// TODO #15a (BONUS): Write the readWeather function protype
 
 
 
