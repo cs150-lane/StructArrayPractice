@@ -20,16 +20,16 @@ using namespace std;
 // TODO #5a: Write the printAllWeather function prototype
 
 
-// TODO #7a: Write the hottestDay function prototype
+// TODO #8a: Write the hottestDay function prototype
 
 
-// TODO #9a: Write the biggestDay function prototype
+// TODO #10a: Write the biggestDay function prototype
 
 
-// TODO 13a (BONUS): Write the writeWeather function protype
+// TODO 14a (BONUS): Write the writeWeather function protype
 
 
-// TODO 14a (BONUS): Write the readWeather function protype
+// TODO 15a (BONUS): Write the readWeather function protype
 
 
 
@@ -42,20 +42,21 @@ int main (){
 
 	// TODO #6: In main, print the weather in array positions 0, 1, 2. 
 
+	// TODO #7: In main, print the weather in all the array positions 
 
-	// TODO #8: In main, print the weather on the hottest day
+	// TODO #9: In main, print the weather on the hottest day
 
 
-	// TODO #10: In main, print the weather on the day with the biggest
+	// TODO #11: In main, print the weather on the day with the biggest
 	//					 change
 
 
-	// TODO #11: In main, add the weather {30.0, 20.0, 0.0, 14.0} in 
+	// TODO #12: In main, add the weather {30.0, 20.0, 0.0, 14.0} in 
 	//					 position 0 of the array and shift the existing items 
 	//					 in the array one slot to make room
 
 
-	// TODO #12: In main, print the weather in all the array positions
+	// TODO #13: In main, print the weather in all the array positions
 
 
 
@@ -93,7 +94,7 @@ int main (){
 
 
 
-// TODO #7b: Write the hottestDay function which will find the day with
+// TODO #8b: Write the hottestDay function which will find the day with
 //           the highest high temperature and return the index of that 
 //           day in the array
 
@@ -109,7 +110,7 @@ int main (){
 
 
 
-// TODO #9b: Write the biggestChange function which will find the day
+// TODO #10b: Write the biggestChange function which will find the day
 //						with the biggest difference between the high and low
 //						temperature and return the index of the day in the array.
 
@@ -126,7 +127,7 @@ int main (){
 
 
 
-// TODO #13b: Write the writeWeather function definition
+// TODO #14b: Write the writeWeather function definition
 
 //*********************************************************************
 // Function:		writeWeather
@@ -139,7 +140,7 @@ int main (){
 //*********************************************************************
 
 
-// TODO #14b: Write the readWeather function definition
+// TODO #15b: Write the readWeather function definition
 
 //*********************************************************************
 // Function:		readWeather
