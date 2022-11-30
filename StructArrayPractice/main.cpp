@@ -34,7 +34,7 @@ using namespace std;
 
 
 int main (){
-	// TODO #2: Delcare an array of 31 Weather structs in main ()
+	// TODO #2: Declare an array of 31 Weather structs in main ()
 
 
 	// TODO #3: Fill in first 7 array positions with the given data
@@ -46,7 +46,8 @@ int main (){
 	// TODO #9: In main, print the weather on the hottest day
 
 
-	// TODO #11: In main, print the weather on the hottest day
+	// TODO #11: In main, print the weather on the day with the biggest
+	//					 change
 
 
 	// TODO #12: In main, add the weather {30.0, 20.0, 0.0. 14.0} in 
